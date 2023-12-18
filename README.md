@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @omertkn1
-- 👀 I’m interested in learning things about A.I and virtual reality
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on people and companies that i can learn things
-- 📫 How to reach me ...
-
-<!---
-omertkn1/omertkn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello there! My name is @omertkn1.I am a freshman student in Isparta University of Applied Sciences.I am interested in learning about AI and virtual reality. Currently, I am studying C++ and looking for people and companies to collaborate with and learn from.Also, I am here because I want to follow current technology and programming languages and for creating projects. If you would like to contact me, please feel free to reach out.
+Contacts:instagram=omerboisterous
+email=omertaskin32129@gmail.com
